@@ -1,0 +1,78 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    color: rgb(2, 0, 0);
+    background-image: url(../img/fondo.jpg);
+    background-position: center center;
+    opacity: 1;
+    height: 100vh;
+        
+}
+
+table {
+    border-collapse: separate; 
+    border-spacing: 10px; 
+}
+
+  td {
+    padding: 10px; 
+    
+  }  
+  
+
+
+  .header-container {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+  }
+
+div#titulo {
+    
+    text-align: center;
+    display: flex;
+    
+    
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  
+}
+
+p {
+    text-align: left;
+  }
+
+.img2 {
+    width: 30px;
+    height: 30px;
+}
+
+.lista-container{
+    
+    width: 200px; 
+    margin: 0 auto; 
+    float: left;
+}
+
+
+
+#menu {
+    display: block;
+    margin: auto;
+    justify-content: center;
+    
+}
+
+div#contacto {   
+    
+    width: 100px;
+    margin: 20px 20px 20px;
+    padding-bottom: 10px;
+    
+}
